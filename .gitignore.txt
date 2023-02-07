@@ -1,5 +1,0 @@
-text.doc
-new.py
-help.py
-help2.py
-help3.py
