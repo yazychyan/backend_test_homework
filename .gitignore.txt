@@ -1,2 +1,3 @@
 text.doc
 new.py
+help.py
